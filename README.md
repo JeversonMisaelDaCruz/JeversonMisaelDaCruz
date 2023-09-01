@@ -22,7 +22,7 @@
 
 
 <h4>Seja Bem-Vindo ao meu GitHub. Meu nome é Jeverson Misael e estou cursansdo Tecnologia em Análise e Desenvolvimento de Sistemas na Univel Pretendo seguir na área de Backend e cybersecurity.</h4>
-<h4>Estou interessado em estágios ou vagas para desenvolvedor júnior ou suporte Tenho experiência com:</h4>
+<h4>Estou interessado em estágios,vagas para desenvolvedor júnior ou suporte Tenho experiência com:</h4>
 
 <img src="https://img.shields.io/badge/HTML-706d6d?style=for-the-badge&logo=html5&logoColor=white%22%3E">
 <img src="https://img.shields.io/badge/CSS-706d6d?&style=for-the-badge&logo=css3&logoColor=white%22%3E">
