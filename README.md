@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src=https://i.imgur.com/Cqkog8A.png
+<img align="center" src=https://www.seekpng.com/png/full/4-48714_pics-of-welcome-5380843775-welcome-png.png
 </div>
 
 🎧Sobre mim
