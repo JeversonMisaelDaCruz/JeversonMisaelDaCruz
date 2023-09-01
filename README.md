@@ -1,16 +1,35 @@
-### Hi there 👋
+<div align="center">
+<img align="center" src=https://i.imgur.com/Cqkog8A.png
+</div>
 
-<!--
-**JeversonMisaelDaCruz/JeversonMisaelDaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎧Sobre mim
+<div align="center">
 
-Here are some ideas to get you started:
+<h4>Seja Bem-Vindo ao meu GitHub. Meu nome é Jeverson Misael e estou cursansdo Tecnologia em Análise e Desenvolvimento de Sistemas na Univel Pretendo seguir na área de Backend e cybersecurity.</h4>
+<h4>Estou interessada em estágios ou vagas para desenvolvedorr júnior e suporte Tenho experiência com:</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="center">
+<a href="https://www.linkedin.com/in/jeverson-misael-da-cruz-filho-136533262/"  target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%23706d6d.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="https://www.instagram.com/jeversonmisael/"  target="_blank">
+<img src="https://img.shields.io/badge/Instagram-706d6d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+<a href="mailto:jeversonmisaeldacruzfilho@gmail.com"  target="_blank">
+<img src="https://img.shields.io/badge/Gmail-706d6d?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+</div>
+
+<img src="https://img.shields.io/badge/HTML-706d6d?style=for-the-badge&logo=html5&logoColor=white%22%3E">
+<img src="https://img.shields.io/badge/CSS-706d6d?&style=for-the-badge&logo=css3&logoColor=white%22%3E">
+<img src="https://img.shields.io/badge/JavaScript-706d6d?style=for-the-badge&logo=javascript&logoColor=white%22%3E">
+<img src="https://img.shields.io/badge/C-706d6d?style=for-the-badge&logo=c&logoColor=white%22%3E">
+
+<br>⠀⠀⠀⠀
+<a href="https://github.com/JeversonMisaelDaCruz">
+<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Durato&theme=dark&show_icons=true"><img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durato&layout=compact&langs_count=7&theme=dark"> 
+
+
+
+</div>
