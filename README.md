@@ -29,9 +29,7 @@
 <img src="https://img.shields.io/badge/JavaScript-706d6d?style=for-the-badge&logo=javascript&logoColor=white%22%3E">
 <img src="https://img.shields.io/badge/C-706d6d?style=for-the-badge&logo=c&logoColor=white%22%3E">
 
-<br>⠀⠀⠀⠀
-<a href="https://github.com/JeversonMisaelDaCruz">
-<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=JeversonMisaelDaCruz&theme=dark&show_icons=true"><img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durato&layout=compact&langs_count=7&theme=dark"> 
+
 
 
 
