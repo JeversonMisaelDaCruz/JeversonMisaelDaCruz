@@ -27,7 +27,8 @@
 <img src="https://img.shields.io/badge/HTML-706d6d?style=for-the-badge&logo=html5&logoColor=white%22%3E">
 <img src="https://img.shields.io/badge/CSS-706d6d?&style=for-the-badge&logo=css3&logoColor=white%22%3E">
 <img src="https://img.shields.io/badge/JavaScript-706d6d?style=for-the-badge&logo=javascript&logoColor=white%22%3E">
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 
 
