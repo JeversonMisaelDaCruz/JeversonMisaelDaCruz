@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/JavaScript-706d6d?style=for-the-badge&logo=javascript&logoColor=white%22%3E">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)">
 
 
 
