@@ -17,13 +17,12 @@
 
 
 <h4>Seja Bem-Vindo ao meu GitHub. </h4>
-<h4>Olá! Sou Jeverson Misael, atualmente desempenhando o papel de Analista de Sistemas na Profood. Estou dedicado a aprimorar minhas habilidades enquanto curso Tecnologia em Análise e Desenvolvimento de Sistemas. Com experiência sólida em ferramentas como PowerBI, SQL, Nextjs, linux(ubuntu) e tailwindCSS estou constantemente buscando aprimorar minhas competências. Atualmente, estou focado em me aprofundar em Next.js e JAVA.</h4>
-<h4>Estou interessado em estágios ou  desenvolvedor júnior :</h4>
+<h4>Olá! Sou Jeverson Misael, atualmente desempenhando o papel de Analista de Sistemas na Profood. Estou dedicado a aprimorar minhas habilidades enquanto curso Tecnologia em Análise e Desenvolvimento de Sistemas. Com experiência sólida em ferramentas como PowerBI, SQL, Nextjs, linux e tailwindCSS estou constantemente buscando aprimorar minhas competências. Atualmente, estou focado em me aprofundar em Next.js, node , PL/SQL e JAVA.</h4>
 <h4>Tecnologias:</h4>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)">
 
 
