@@ -17,7 +17,7 @@
 
 
 <h4>Seja Bem-Vindo </h4>
-<h4>Olá! Sou Jeverson Misael, sou desenvolvedor backend Estou dedicado a aprimorar minhas habilidades enquanto curso Tecnologia em Análise e Desenvolvimento de Sistemas. Com experiência sólida em ferramentas como PowerBI, PL-SQL, Nextjs, linux e tailwindCSS estou constantemente buscando aprimorar minhas competências. Atualmente, estou focado em me aprofundar em Next.js, node , PL/SQL e JAVA.</h4>
+<h4>I am Jeverson Misael, a full stack developer dedicated to enhancing my skills while studying Technology in Systems Analysis and Development. With solid experience in tools such as PowerBI, Next.js, Node.js, Linux, and TailwindCSS, I am constantly seeking to improve my competencies, currently focused on delving deeper into Next.js and Node.js.</h4>
 <h4>Tecnologias:</h4>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge">
