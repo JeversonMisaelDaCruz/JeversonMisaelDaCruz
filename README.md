@@ -16,8 +16,8 @@
 </div>
 
 
-<h4>Seja Bem-Vindo </h4>
-<h4>I am Jeverson Misael, a full stack developer dedicated to enhancing my skills while studying Technology in Systems Analysis and Development. With solid experience in tools such as PowerBI, Next.js, Node.js, Linux, and TailwindCSS, I am constantly seeking to improve my competencies, currently focused on delving deeper into Next.js and Node.js.</h4>
+<h4>Welcome </h4>
+<h4>I'm Jeverson Misael, a full stack developer dedicated to improving my skills while studying Technology in Systems Analysis and Development. With solid experience in tools such as PowerBI, Next.js, TailwindCSS and Linux, I'm constantly looking to improve my skills, currently focused on delving deeper into Next.js and Node.js.</h4>
 <h4>Tecnologias:</h4>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge">
